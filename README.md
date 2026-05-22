@@ -36,11 +36,6 @@ I am actively building projects and mastering the MERN stack to become a Full St
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
----
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-Singh1999&show_icons=true&theme=radical" alt="Ankit's Stats" />
-</p>
 
 ---
 
