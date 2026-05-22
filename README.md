@@ -45,8 +45,8 @@ I am actively building projects and mastering the MERN stack to become a Full St
 ---
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ankit-singh-815262325)
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ankitsingh2017dec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-singh-815262325)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsingh2017dec@gmail.com)
 
 ---
 *"The best way to predict the future is to create it."*
